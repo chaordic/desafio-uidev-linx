@@ -21,6 +21,6 @@ Diferenciais:
 
 ---
 
-Em caso de dúvidas, [abra uma issue](https://github.com/chaordic/desafio-uidev-linx/issues).
+Em caso de dúvidas, responda o e-mail por onde você recebeu o desafio.
 
 **Boa sorte =]**
