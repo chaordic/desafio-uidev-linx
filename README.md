@@ -8,12 +8,12 @@
 4. Além da tela implementada, esperamos que você **documente todos os componentes** ali mapeados numa outra página. 
 5. Assim que concluir o seu desafio, publique a tela implementada e a documentação usando o [GitHub Pages](https://pages.github.com/) no seu projeto.
 
-**Resultado final esperado:** dois links (tela + documentação) na nossa caixa de e-mail em torno de 6h depois de ter recebido o desafio.
+**Resultado final esperado:** dois links (tela + documentação) na nossa caixa de e-mail em torno de 6h depois de ter recebido o desafio :)
 
 ### Informações adicionais
-- Você pode pode usar frameworks como Node/React/Angular/Vue, ou JavaScript puro. 
+Você pode pode usar frameworks como Node/React/Angular/Vue, ou JavaScript puro. 
 
-**Diferenciais:** 
+Diferenciais: 
 - Simular interações e animações (mesmo não tendo sido especificadas no Figma).
 - Uma boa organização de pastas e arquivos.
 - Os textos e o formato da documentação.
